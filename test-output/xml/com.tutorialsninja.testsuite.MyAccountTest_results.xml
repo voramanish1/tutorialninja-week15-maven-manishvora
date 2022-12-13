@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Login Test"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="48.509">
+  <properties />
+  
+  
+            <testcase name="verifyThatUserShouldLoginAndLogoutSuccessfully" time="2.243" classname="com.tutorialsninja.testsuite.MyAccountTest" />
+                <testcase name="verifyUserShouldNavigateToRegisterPageSuccessfully" time="20.879" classname="com.tutorialsninja.testsuite.MyAccountTest" />
+                <testcase name="verifyUserRegisterAccountSuccessfully" time="24.985" classname="com.tutorialsninja.testsuite.MyAccountTest" />
+                <testcase name="verifyUserShouldNavigateToLoginPageSuccessfully" time="0.402" classname="com.tutorialsninja.testsuite.MyAccountTest" />
+      
+</testsuite>
