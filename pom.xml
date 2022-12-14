@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.tutorialsninja</groupId>
-  <artifactId>ultimateqa-week15-maven-manishvora</artifactId>
+  <artifactId>tutorialninja-week15-maven-manishvora</artifactId>
   <version>1.0-SNAPSHOT</version>
   <build>
     <plugins>
@@ -19,7 +19,7 @@
   </build>
   <packaging>jar</packaging>
 
-  <name>ultimateqa-week15-maven-manishvora</name>
+  <name>tutorialninja-week15-maven-manishvora</name>
   <url>http://maven.apache.org</url>
 
   <properties>
